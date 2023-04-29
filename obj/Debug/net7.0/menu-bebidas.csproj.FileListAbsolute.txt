@@ -1,0 +1,15 @@
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\bin\Debug\net7.0\menu-bebidas.exe
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\bin\Debug\net7.0\menu-bebidas.deps.json
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\bin\Debug\net7.0\menu-bebidas.runtimeconfig.json
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\bin\Debug\net7.0\menu-bebidas.dll
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\bin\Debug\net7.0\menu-bebidas.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\menu-bebidas.csproj.AssemblyReference.cache
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\menu-bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\menu-bebidas.AssemblyInfoInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\menu-bebidas.AssemblyInfo.cs
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\menu-bebidas.csproj.CoreCompileInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\menu-bebidas.dll
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\refint\menu-bebidas.dll
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\menu-bebidas.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\menu-bebidas.genruntimeconfig.cache
+C:\Users\willd\OneDrive\Área de Trabalho\menu-bebidas\obj\Debug\net7.0\ref\menu-bebidas.dll
